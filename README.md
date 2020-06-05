@@ -14,7 +14,7 @@ const smsBody = new SmsBody('<target_phone_number>', '<message_text>');
 smsClient.sendSms(smsBody).then(res => console.log(res))
 ```
 
-You can find more examples <a href="https://github.com/Blazik/sms-brana-nodejs-sdk/examples">here</a>
+You can find more examples <a href="https://github.com/Blazik/sms-brana-nodejs-sdk/tree/master/examples">here</a>
 
 API Documentation
 -----------------

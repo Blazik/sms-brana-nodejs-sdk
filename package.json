@@ -1,7 +1,7 @@
 {
   "name": "sms-brana-nodejs-sdk",
   "version": "1.0.0",
-  "description": "SDK for SMS Gate on www.smsbrana.cz",
+  "description": "SDK for SMS Connect on page www.smsbrana.cz",
   "main": "SmsGateClient.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "smsbrana.cz"
   ],
   "author": "Blazik",
-  "license": "ISC",
+  "license": "MIT",
   "engines": {
     "node": ">=13.0.0"
   },
