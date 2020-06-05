@@ -15,6 +15,8 @@
   ],
   "author": "Blazik",
   "license": "MIT",
+  "repository": "https://github.com/Blazik/sms-brana-nodejs-sdk",
+  "homepage": "https://github.com/Blazik/sms-brana-nodejs-sdk#readme",
   "engines": {
     "node": ">=13.0.0"
   },
