@@ -1,0 +1,26 @@
+{
+  "name": "sms-brana-nodejs-sdk",
+  "version": "1.0.0",
+  "description": "SDK for SMS Gate on www.smsbrana.cz",
+  "main": "SmsGateClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sms brana",
+    "sms brána",
+    "sms brána sdk",
+    "sms brana sdk",
+    "smsbrana.cz"
+  ],
+  "author": "Blazik",
+  "license": "ISC",
+  "engines": {
+    "node": ">=13.0.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-fetch": "^2.6.0",
+    "xml2json": "^0.12.0"
+  }
+}
